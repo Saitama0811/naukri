@@ -1,0 +1,19 @@
+4)ProfileComponent
+************	Personal details*************
+	-name
+	-dob
+	-country
+	-city(list)
+	-contact
+	-fathers name
+	-nationality
+**************Educational**************
+	-Graduation(list)
+	-Percentage
+	-post grad
+	-postgrad percent
+*********************
+	-other certifications
+	-key skills
+****************************************	
+	-resume
